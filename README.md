@@ -55,7 +55,7 @@ To format your code in the current source code window use the following:
 
 #### VS Code:
 
-`Shift+Alt+А` or right-click in the code window and select `Format Document`
+`Shift+Alt+F` or right-click in the code window and select `Format Document`
 
 ## Style
 
