@@ -1,3 +1,5 @@
+## Analysis
+
 Add `dart_rules` as dependency to your pubspec.yaml
 
 ```yaml
@@ -40,3 +42,17 @@ void main() {
 ```
 
 tells the Dart analyzer to ignore all occurrences of the `avoid_as` warning in this file.
+
+## Style
+
+Set maximum line length to 100 symbols
+On both `Android Studio` and `VSCode` do
+```
+File -> Settings -> Input in search bar 'line length dart'
+```
+
+####Android Studio:
+![](android-studio.png)
+
+####VSCode:
+![](https://i.stack.imgur.com/4RCb5.png)
