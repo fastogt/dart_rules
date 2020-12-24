@@ -49,11 +49,11 @@ To format all files in project run `flutter format . --line-length=100`.
 
 To format your code in the current source code window use the following:
 
-###### Android Studio:
+#### Android Studio:
 
 `Cmd+Alt+L` (on Mac) or `Ctrl+Alt+L` (on Windows and Linux).
 
-###### VS Code:
+#### VS Code:
 
 `Shift+Alt+А` or right-click in the code window and select `Format Document`
 
@@ -66,10 +66,10 @@ On both `Android Studio` and `VS Code` do
 File -> Settings -> Input in search bar 'line length dart'
 ```
 
-###### Android Studio:
+#### Android Studio:
 
 ![](https://i.imgur.com/xWZ6lly.jpg)
 
-###### VS Code:
+#### VS Code:
 
 ![](https://i.imgur.com/GQY5h3m.jpg)
