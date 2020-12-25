@@ -4,7 +4,10 @@ Add `dart_rules` as dependency to your pubspec.yaml
 
 ```yaml
 dev_dependencies:
-  dart_rules: ^1.0.0
+  dart_rules:
+    git:
+      url: https://github.com/fastogt/dart_rules.git
+      ref: main
 ```
 
 Add a `analysis_options.yaml` to the root of you project.
