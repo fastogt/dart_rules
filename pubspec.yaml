@@ -1,0 +1,5 @@
+name: dart_rules
+version: 1.0.0
+
+environment:
+  sdk: ">=2.10.4 <3.0.0"
