@@ -298,7 +298,7 @@ linter:
     - slash_for_doc_comments
 
     # https://dart-lang.github.io/linter/lints/sort_pub_dependencies.html
-    - sort_pub_dependencies
+    # - sort_pub_dependencies
 
     # https://dart-lang.github.io/linter/lints/sort_unnamed_constructors_first.html
     - sort_unnamed_constructors_first
