@@ -1,5 +1,5 @@
 name: dart_rules
-version: 1.0.1
+version: 1.0.2
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
+  sdk: ">=2.17.0 <3.0.0"
