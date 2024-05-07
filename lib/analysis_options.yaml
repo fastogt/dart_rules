@@ -28,8 +28,6 @@ linter:
     # http://dart-lang.github.io/linter/lints/always_declare_return_types.html
     # - always_put_required_named_parameters_first
 
-    # http://dart-lang.github.io/linter/lints/always_require_non_null_named_parameters.html
-    - always_require_non_null_named_parameters
 
     # http://dart-lang.github.io/linter/lints/annotate_overrides.html
     - annotate_overrides
@@ -81,10 +79,7 @@ linter:
 
     # https://dart-lang.github.io/linter/lints/avoid_return_types_on_setters.html
     - avoid_return_types_on_setters
-
-    # https://dart-lang.github.io/linter/lints/avoid_returning_null_for_future.html
-    - avoid_returning_null_for_future
-
+   
     # https://dart-lang.github.io/linter/lints/avoid_returning_null_for_void.html
     - avoid_returning_null_for_void
 
@@ -149,11 +144,6 @@ linter:
     - implementation_imports
 
     # - https://github.com/dart-lang/linter/issues/811
-    # https://dart-lang.github.io/linter/lints/invariant_booleans.html
-    - invariant_booleans
-
-    # https://dart-lang.github.io/linter/lints/iterable_contains_unrelated_type.html
-    - iterable_contains_unrelated_type
 
     # https://dart-lang.github.io/linter/lints/leading_newlines_in_multiline_strings.html
     - leading_newlines_in_multiline_strings
@@ -163,9 +153,6 @@ linter:
 
     # https://dart-lang.github.io/linter/lints/library_prefixes.html
     - library_prefixes
-
-    # https://dart-lang.github.io/linter/lints/list_remove_unrelated_type.html
-    - list_remove_unrelated_type
 
     # https://dart-lang.github.io/linter/lints/missing_whitespace_between_adjacent_strings.html
     - missing_whitespace_between_adjacent_strings
@@ -223,15 +210,6 @@ linter:
 
     # https://dart-lang.github.io/linter/lints/prefer_contains.html
     - prefer_contains
-
-    # https://dart-lang.github.io/linter/lints/prefer_equal_for_default_values.html
-    - prefer_equal_for_default_values
-
-    # https://dart-lang.github.io/linter/lints/prefer_final_fields.html !!!
-    - prefer_final_fields
-
-    # https://dart-lang.github.io/linter/lints/prefer_final_in_for_each.html !!!
-    - prefer_final_in_for_each
 
     # https://dart-lang.github.io/linter/lints/prefer_final_locals.html !!!
     - prefer_final_locals
@@ -388,3 +366,5 @@ linter:
 
     # https://dart-lang.github.io/linter/lints/void_checks.html
     - void_checks
+
+    
