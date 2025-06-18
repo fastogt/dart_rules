@@ -2,4 +2,4 @@ name: dart_rules
 version: 1.0.2
 
 environment:
-  sdk: '>=2.18.0 <4.0.0'
+  sdk: ^3.8.0-0
